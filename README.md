@@ -1,6 +1,12 @@
 # Mod-Bluetooth-Competition-Pro
 Mod Bluetooth Competition Pro XInput / Amiga 500
 
+Modification of a Competition Pro joystick for the Amiga 500, adding Bluetooth connectivity and XInput compatibility. The project includes the design and 3D printing of custom parts to adapt and integrate the electronic components inside the controller while preserving its original retro aesthetics and functionality.
+
+The result is a wireless version of the classic Amiga joystick that can be used with modern computers and devices, combining electronics, custom 3D design, and digital fabrication.
+
+https://www.crealitycloud.com/model-detail/mod-bluetooth-competition-pro-xinput
+
 <img width="4000" height="2252" alt="20260919_180207" src="https://github.com/user-attachments/assets/082f6426-89ef-498d-8ae7-c9b4a183f82e" />
 <img width="4000" height="2252" alt="20260919_180155" src="https://github.com/user-attachments/assets/76978373-48f3-4096-9aa6-d667eb835cab" />
 <img width="636" height="547" alt="Captura de pantalla 2026-09-19 182104" src="https://github.com/user-attachments/assets/b5cd60ff-57e7-4582-aed9-210749e4e613" />
