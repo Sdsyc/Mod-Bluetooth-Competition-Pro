@@ -5,7 +5,9 @@ Modification of a Competition Pro joystick for the Amiga 500, adding Bluetooth c
 
 The result is a wireless version of the classic Amiga joystick that can be used with modern computers and devices, combining electronics, custom 3D design, and digital fabrication.
 
-https://www.crealitycloud.com/model-detail/mod-bluetooth-competition-pro-xinput
+Special thanks to:
+- [Creality Cloud - Mod Bluetooth Competition Pro XInput](https://www.crealitycloud.com/model-detail/mod-bluetooth-competition-pro-xinput) for sharing and hosting the 3D designs for this project, making the custom parts available to the community.
+- LemmingDev and the contributors of [ESP32-BLE-Gamepad](https://github.com/lemmingDev/ESP32-BLE-Gamepad), which provides the Bluetooth gamepad and XInput functionality used in this project.
 
 <img width="4000" height="2252" alt="20260919_180207" src="https://github.com/user-attachments/assets/082f6426-89ef-498d-8ae7-c9b4a183f82e" />
 <img width="4000" height="2252" alt="20260919_180155" src="https://github.com/user-attachments/assets/76978373-48f3-4096-9aa6-d667eb835cab" />
