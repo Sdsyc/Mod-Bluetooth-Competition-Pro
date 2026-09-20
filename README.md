@@ -161,9 +161,7 @@ for compatibility with systems supporting Bluetooth XInput controllers.
   </tr>
   <tr>
     <td><img width="400" src="https://github.com/user-attachments/assets/a0c2a6bd-45b3-44b8-9a64-89e3eea48470" /></td>
-    <td><img width="400" src="https://github.com/user-attachments/assets/5b598a5f-2872-4c31-82d4-2936e1289fe0" /></td>
-    
-    <td></td>
+    <td><img width="400" src="https://github.com/user-attachments/assets/5b598a5f-2872-4c31-82d4-2936e1289fe0" /></td>   
   </tr>
 </table>
 
