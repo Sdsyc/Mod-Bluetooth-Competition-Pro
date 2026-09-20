@@ -131,6 +131,19 @@ The controller is configured to use:
 
 for compatibility with systems supporting Bluetooth XInput controllers.
 
+## Bill of Materials
+
+* SPEEDLINK Competition Pro Joystick
+* Seeed Studio XIAO ESP32-C3
+* KY-040 Rotary Encoder
+* 10 cm USB-C to USB-C Extension Cable
+* 8 mm LED Push Button, 3 V, Self-Reset, Normally Open (NO)
+* LiPo Battery, 3.7 V
+* Vibration Motor
+* 28 AWG Hook-up / Connecting Wires
+* Custom 3D-Printed Parts
+
+
 ### Pictures
 
 <table>
@@ -148,6 +161,8 @@ for compatibility with systems supporting Bluetooth XInput controllers.
   </tr>
   <tr>
     <td><img width="400" src="https://github.com/user-attachments/assets/a0c2a6bd-45b3-44b8-9a64-89e3eea48470" /></td>
+    <td><img width="400" src="https://github.com/user-attachments/assets/5b598a5f-2872-4c31-82d4-2936e1289fe0" /></td>
+    
     <td></td>
   </tr>
 </table>
