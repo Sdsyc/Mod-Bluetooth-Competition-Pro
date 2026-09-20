@@ -139,7 +139,7 @@ for compatibility with systems supporting Bluetooth XInput controllers.
     <td><img width="400" src="https://github.com/user-attachments/assets/76978373-48f3-4096-9aa6-d667eb835cab" /></td>
   </tr>
   <tr>
-    <td><img width="400" src="https://github.com/user-attachments/assets/b5cd60ff-57e7-458a-8ae9-210749e4e613" /></td>
+    <td><img width="400" src="https://github.com/user-attachments/assets/9e8ca3e9-e0a6-4c99-8783-9d77e417baad" /></td>
     <td><img width="400" src="https://github.com/user-attachments/assets/22634f96-4c74-4fe0-887e-13bf3a444879" /></td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ for compatibility with systems supporting Bluetooth XInput controllers.
     <td><img width="400" src="https://github.com/user-attachments/assets/6a4347bf-23e0-4ab1-a871-e7ee9942320a" /></td>
   </tr>
   <tr>
-    <td><img width="400" src="https://github.com/user-attachments/assets/929e0b05-4270-4dce-b149-d845f95a1982" /></td>
+    <td><img width="400" src="https://github.com/user-attachments/assets/a0c2a6bd-45b3-44b8-9a64-89e3eea48470" /></td>
     <td></td>
   </tr>
 </table>
