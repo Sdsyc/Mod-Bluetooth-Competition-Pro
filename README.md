@@ -139,7 +139,7 @@ for compatibility with systems supporting Bluetooth XInput controllers.
 * 10 cm USB-C to USB-C Extension Cable
 * 8 mm LED Push Button, 3 V, Self-Reset, Normally Open (NO)
 * LiPo Battery, 3.7 V
-* Vibration Motor
+* Vibration Motor 9000RPM / Driver
 * 28 AWG Hook-up / Connecting Wires
 * Custom 3D-Printed Parts
 
